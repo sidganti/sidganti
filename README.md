@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Sid Ganti
+
+* Data Science BS student at The University of Michigan 
+* Working part time as a Web Developer at CAEN
+* Interested in Full Stack Development, ML/AI, UI/UX
+
+[![GitHub](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sidganti/)
 
 <!--
 **sidganti/sidganti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
