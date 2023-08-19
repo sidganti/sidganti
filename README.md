@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Sid Ganti
 
-* Data Science BS student at The University of Michigan 
+* Data Science BS Grad from The University of Michigan 
 * Working part time as a Software Developer at CAEN
 * Interested in Full Stack Development, ML/AI, UI/UX
 
