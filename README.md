@@ -6,6 +6,8 @@
 
 [![GitHub](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sidganti/)
 
+[Personal Website](https://www.sidganti.dev/) 
+
 <!--
 **sidganti/sidganti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
