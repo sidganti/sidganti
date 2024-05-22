@@ -1,10 +1,12 @@
-### Hi there 👋 I'm Sid Ganti
+# Sid Ganti
 
-* Data Science BS Grad from The University of Michigan 
-* Software Developer
-* Interested in Full Stack Development, ML/AI, UI/UX
+Professional software engineer
 
-[![GitHub](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sidganti/)
+I build projects on topics I'm interested in
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidganti/)
 
 [Personal Website](https://www.sidganti.dev/) 
 
